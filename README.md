@@ -1,5 +1,4 @@
-# Cool stuff I made 
-- Mac app for agent assisted app store submission [Blitz](https://github.com/blitzdotdev/blitz-mac)
+- Mac app for agent assisted app store submission [blitz-mac](https://github.com/blitzdotdev/blitz-mac)
 - Train a doom world model [BoredDoomGuy](https://github.com/pythonlearner1025/BoredDoomGuy.git)
 - Run Qwen2-VL model finetuned to play minecraft, [minerl_0.3.7](https://github.com/pythonlearner1025/minerl_0.3.7) 
 - Deep-CFR network trainer in c++/mlx, for ARM gpus [hete](https://github.com/pythonlearner1025/hete) 
